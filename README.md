@@ -1,6 +1,11 @@
 # 목차
 
 
+
+[2022학년 2학기 과제 2.pdf](https://github.com/yerimoh/Capstone_GBT/files/10192538/2022.2.2.pdf)
+
+
+
 - [Capstone_GBT](#capstone-gbt)
 - [Member](#member)
 - [1. 졸업프로젝트 개요](#1--졸업프로젝트-개요)
