@@ -11,8 +11,8 @@ GBT 학부 졸업 캡스톤 디자인 프로젝트
 
 # Member
 * [오예림](https://github.com/yerimoh): Team Leader & AI       
-* [안유형](https://github.com/Yoohyung): Data 전처리    
-* [최윤서](https://github.com/cys1009): App Dev        
+* [안유형](https://github.com/Yoohyung): 구현보조      
+* [최윤서](https://github.com/cys1009): 구현보조         
 * [박성민](): Biz        
 * [최윤서](): Biz        
 
